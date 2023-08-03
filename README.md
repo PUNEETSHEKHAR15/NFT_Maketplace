@@ -2,7 +2,7 @@
 
 To set up the repository and run the marketplace locally, run the below
 ```bash
-git clone [https://github.com/PUNEETSHEKHAR15/NFT_Maketplace.git](https://github.com/PUNEETSHEKHAR15/NFT_Maketplace.git)
+git clone https://github.com/PUNEETSHEKHAR15/NFT_Maketplace.git
 cd NFT-Marketplace-Tutorial
 npm install
 npm start
