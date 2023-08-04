@@ -8,7 +8,9 @@ async function main() {
   const Marketplace = await hre.ethers.getContractFactory("NFTMarketplace");
   const marketplace = await Marketplace.deploy();
 
+
   await marketplace.deployed();
+  console.log(marketplace.address)
 
   const data = {
     address: marketplace.address,
