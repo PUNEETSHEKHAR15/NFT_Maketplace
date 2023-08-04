@@ -20,7 +20,7 @@ module.exports = {
     },
     sepolia: {
       url: "https://eth-sepolia.g.alchemy.com/v2/U8nKjuloYI-3CN4Undlu_1clDm84HCVU",
-      accounts: ["0x28de8e51dd74e340f2f946ffb73ceccb5bfd47177a28750dac554c7e8e5bfca7"],
+      accounts: [""],
     }
   },
   solidity: {
